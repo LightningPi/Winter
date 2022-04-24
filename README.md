@@ -4,10 +4,10 @@
 作品網址：https://lightningpi.website/Winter <br/>
 資料庫檔案：winter.sql <br/>
 <br/>
-系統建置規格：<br/>
+一、系統建置規格：<br/>
 PHP、MySQL、CSS、HTML<br/>
 <br/>
-系統主要功能：<br/>
+二、系統主要功能：<br/>
 會員註冊、登入、登出<br/>
 系統註冊驗證、登入驗證<br/>
 會員新增文章<br/>
