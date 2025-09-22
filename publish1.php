@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>發表文章</title>
 </head>
-
+ 
 <body>
 
 <?php
@@ -80,4 +80,5 @@ switch($class){
 
 </body>
 </html>
+
 
