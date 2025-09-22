@@ -5,7 +5,7 @@
 <title>註冊會員</title>
 
 </head>
-
+ 
 <body>
 
 <?php
@@ -204,3 +204,4 @@ echo "<meta http-equiv='refresh' content='3;url=register.php'/>";
 
 </body>
 </html>
+
