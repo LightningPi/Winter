@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>無標題文件</title>
 </head>
-
+ 
 <body>
 
 <?php
@@ -17,3 +17,4 @@ echo "<meta http-equiv='refresh' content='0;url=index.php'/>";
 
 </body>
 </html>
+
