@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <?php
-
+ 
 mysql_connect("localhost","root","1234");
 mysql_select_db("winter");
 mysql_query("SET NAMES 'utf8'");
@@ -18,4 +18,5 @@ echo "<title>".$row->title."</title>";
 
 <body>
 </body>
+
 </html>
