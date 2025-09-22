@@ -1,7 +1,6 @@
 # Winter
-大一寒假PHP訓練營<br/>
+大一寒假 PHP 訓練營<br/>
 開發簡易論壇(三人合作)<br/>
-作品網址：https://lightningpi.website/Winter <br/>
 資料庫檔案：winter.sql <br/>
 <br/>
 一、系統建置規格：<br/>
