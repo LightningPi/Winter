@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Your音樂論壇</title>
+<title>Your音樂論壇</title> 
 </head>
 
 <body>
@@ -99,3 +99,4 @@ echo "<hr size='10' align='center' noshade width='70%' color='black'>"
 
 </body>
 </html>
+
