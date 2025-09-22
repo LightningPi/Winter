@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
 
 <body>
-
+ 
 <center><h2>請填寫會員資料</h2></center>
 
 <hr size="10" align="center" noshade width="100%" color="black"><br/><br/>
@@ -65,6 +65,7 @@
 <center><a href="index.php">回到首頁</a></center>
 
 </body>
+
 
 
 
