@@ -15,7 +15,7 @@ $result = mysql_query($sql2);
 echo "<title>文章內容</title>";
 ?>
 </head>
-
+ 
 <body>
 
 <center>
@@ -75,4 +75,5 @@ switch($b){
 }
 ?></center>
 </body>
+
 </html>
